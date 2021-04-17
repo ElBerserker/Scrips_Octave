@@ -1,4 +1,4 @@
-% Titulo: Modelo matematico de temperatura 
+% Titulo: Modelo matematico 3
 % Descriocion: Scrip para graficar f(x)= 2x^2 + x -1
 % Autor: Raul Hernandez Lopez @Neo
 % Fecha: miercoles 14 de abril del 2021
